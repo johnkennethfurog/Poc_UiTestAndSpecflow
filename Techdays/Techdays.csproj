@@ -54,6 +54,7 @@
     <Compile Include="Steps\StepsBase.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Apk\com.xpirit.techdays_1.0.61.apk" />
     <None Include="Features\GotoSession.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
       <LastGenOutput>GotoSession.feature.cs</LastGenOutput>
